@@ -1,4 +1,4 @@
-x <- read.csv("C:/Users/rafael.reyes/Google Drive/Documents/R/Area Code to Time Zone/data.csv", TRUE, sep=",")
+x <- read.csv("data.csv", TRUE, sep=",")
 x$Time.New <- rep(NA, nrow(x))
 colnames(x) <- c("Area.Code", "Time.Zone", "State", "Region", "Time.New")
 new.time <- function(y){
