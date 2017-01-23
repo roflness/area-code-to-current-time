@@ -1,0 +1,327 @@
+﻿Area Code,Time Zone,State/Prov.,Region
+201,EST,New Jersey,"Hackensack, Jersey City, Union City, Rutherford, Leonia"
+202,EST,District of Columbia,"Washington, District of Columbia"
+203,EST,Connecticut,"Bridgeport, New Haven, Stamford, Waterbury, Norwalk, Danbury, Greenwich"
+205,CST,Alabama,"Birmingham, Huntsville, Tuscaloosa, Anniston"
+206,PST,Washington,"Seattle, Everett"
+207,EST,Maine,Maine: All regions
+208,MST,Idaho,Idaho: All regions *(Area Code crosses into PST time zone)
+209,PST,California,"Stockton, Modesto, Merced, Oakdale"
+210,CST,Texas,San Antonio
+212,EST,New York,New York City (Manhattan only)
+213,PST,California,"Los Angeles, Compton"
+214,CST,Texas,Dallas
+215,EST,Pennsylvania,"Philadelphia, Lansdale, Doylestown, Newtown, Quakertown"
+216,EST,Ohio,"Cleveland, Terrace, Independence, Montrose"
+217,CST,Illinois,"Springfield, Champaign Urbana, Decatur, Central Illinois"
+218,CST,Minnesota,"Duluth, Virginia, Moorhead, Brainerd, Wadena"
+219,CST,Indiana,"Gary, Hammond, Merrillville, Portage, Michigan City, Valparaiso *(Area Code crosses into EST time zone)"
+220,EST,Ohio,Overlay of 740 Area Code.
+224,CST,Illinois,Overlay of 847 area code (Chicago)
+225,CST,Louisiana,Baton Rouge and Surrounding Areas
+228,CST,Mississippi,"Gulfport, Biloxi, Pascagoula, Bay St. Louis"
+229,EST,Georgia,"Albany, Valdosta, Thomasville, Bainbridge, Tifton, Americus, Moultrie, Cordele"
+231,EST,Michigan,"Muskegon, Traverse City, Big Rapids, Cadillac, Cheboygan"
+234,EST,Ohio,Overlay of 330 Area Code
+239,EST,Florida,"Ft. Myers, Naples, Cape Coral, Bonita Springs, Immokalee, Lehigh Acres, Sanibel, Captiva, Pine Island"
+240,EST,Maryland,Overlay of 301 Area Code (Maryland)
+248,EST,Michigan,"Troy, Pontiac, Royal Oak, Birmingham, Rochester, Farmington Hills"
+251,CST,Alabama,"Mobile, Prichard, Tillmans Corner, Fairhope, Jackson, Gulfshores"
+252,EST,North Carolina,"Greenville, Rocky Mount, Wilson, New Bern"
+253,PST,Washington,"Tacoma, Kent, Auburn"
+254,CST,Texas,"Waco, Killeen, Temple"
+256,CST,Alabama,"Huntsville, Anniston, Decatur, Gadsden, Florence"
+260,EST,Indiana,"Fort Wayne, Huntington, Wabash, Lagrange"
+262,CST,Wisconsin,"Green Bay, Appleton, Racine, Kenosha, Oshkosh, Waukesha, Menomonee Falls, West Bend, Sheboygan"
+267,EST,Pennsylvania,Overlay of 215 Area Code (Philadelphia Area)
+269,EST,Michigan,"Kalamazoo, Battle Creek, St. Joseph, Three Rivers, South Haven, Benton Harbor, Sturgis, Hastings"
+270,CST,Kentucky,"Bowling Green, Paducah, Owensboro, Hopkinsville *(Area Code crosses into EST time zone)"
+272,EST,Pennsylvania,Overlay of 570 Area Code.
+276,EST,Virginia,"Martinsville, Abingdon, Wytheville, Bristol, Marion, Collinsville"
+281,CST,Texas,"Houston, Sugar Land, Buffalo, Airline, Greenspoint, Spring"
+301,EST,Maryland,"Rockville, Silver Spring, Bethesda, Gaithersburg, Frederick, Laurel, Hagerstown"
+302,EST,Delaware,Delaware: All regions
+303,MST,Colorado,"Denver, Littleton, Englewood, Arvada, Boulder, Aurora"
+304,EST,West Virginia,West Virginia: All regions
+305,EST,Florida,"Miami, Perrine, Homestead, Florida Keys"
+307,MST,Wyoming,Wyoming: All regions
+308,CST,Nebraska,"Grand Island, Kearney, North Platte, Scottsbluff *(Area Code crosses into MST time zone)"
+309,CST,Illinois,"Peoria, Bloomington, Rock Island, Galesburg, Macomb"
+310,PST,California,"Compton, Santa Monica, Beverly Hills, West LA, Inglewood, Redondo, El Segundo, Culver City, Torrance"
+312,CST,Illinois,"Chicago (Downtown area), Wheeling"
+313,EST,Michigan,"Detroit, Livonia, Dearborn"
+314,CST,Missouri,"Saint Louis, Ladue, Kirkwood, Creve Coeur, Overland, Ferguson"
+315,EST,New York,"Syracuse, Utica, Watertown, Rome"
+316,CST,Kansas,"Wichita, Hutchinson"
+317,EST,Indiana,"Indianapolis, Carmel, Fishers, Greenwood"
+318,CST,Louisiana,"Shreveport, Monroe, Alexandria, Ruston, Natchitoches"
+319,CST,Iowa,"Cedar Rapids, Iowa City, Waterloo, Burlington"
+320,CST,Minnesota,"St. Cloud, Alexandria, Willmar, Little Falls"
+321,EST,Florida,"Brevard County (Cocoa, Melbourne, Eau Gallie, Titusville), Overlay of most of 407 Area Code."
+323,PST,California,"Los Angeles, Montebello"
+325,CST,Texas,"Albilene, San Angelo, Brownwood, Synder, Swee"
+330,EST,Ohio,"Akron, Youngstown, Canton, Warren, Kent, Alliance, Medina, New Philadelphia"
+331,CST,Illinois,Overlay of the 630 area code.
+334,CST,Alabama,"Montgomery, Dothan, Auburn, Selma, Opelika, Phenix City, Tuskegee *(Area Code crosses into EST time zone)"
+336,EST,North Carolina,"Greensboro, Winston Salem, Highpoint, Burlington, Lexington, Asheboro, Reidsville"
+337,CST,Louisiana,"Lake Charles, Lafayette, New Iberia, Leesville, Opelousas, Crowley"
+339,EST,Massachusetts,Overlay of 781 area code.
+346,CST,Texas,"Overlay of 713, 281 and 832 area codes (Houston)."
+347,EST,New York,"Overlay of 718 Area Code (Bronx, Brooklyn, Queens, Staten Island)."
+351,EST,Massachusetts,Overlay of 978 area code.
+352,EST,Florida,"Gainesville, Ocala, Leesburg, Brookville"
+360,PST,Washington,"Vancouver, Olympia, Bellingham, Silverdale"
+361,CST,Texas,"Corpus Christi, Victoria"
+364,CST,Kentucky,Overlay of 270 Area Code. *(Area Code crosses into EST time zone)
+380,EST,Ohio,Overlay of 614 Area Code
+385,MST,Utah,Overlay of 801 Area Code.
+386,EST,Florida,"Daytona, Deland, Lake City, DeBary, Orange City, New Smyrna Beach, Palatka, Palm Coast"
+401,EST,Rhode Island,Rhode Island: All regions
+402,CST,Nebraska,"Lincoln, Omaha, Norfolk, Columbus *(Area Code crosses into MST time zone)"
+404,EST,Georgia,Atlanta
+405,CST,Oklahoma,"Oklahoma City, Norman, Stillwater, Britton, Bethany, Moore"
+406,MST,Montana,Montana: All regions
+407,EST,Florida,"Orlando, Winter Park, Kissimmee, Cocoa, Lake Buena Vista, Melbourne"
+408,PST,California,"San Jose, Sunnyvale, Campbell Los Gatos, Salinas, San Martin, Saratoga, Morgan Hill, Gilroy"
+409,CST,Texas,"Galveston, Beaumont, Port Arthur, Texas City, Nederland"
+410,EST,Maryland,"Baltimore, Annapolis, Towson, Catonsville, Glen Burnie"
+412,EST,Pennsylvania,Pittsburgh
+413,EST,Massachusetts,"Springfield, Pittsfield, Holyoke, Amherst"
+414,CST,Wisconsin,"Milwaukee, Greendale, Franklin, Cudahy, St. Francis, Brown Deer, Whitefish Bay"
+415,PST,California,San Francisco
+417,CST,Missouri,"Joplin, Springfield, Branson, Lebanon"
+419,EST,Ohio,"Toledo, Lima, Mansfield, Sandusky, Findlay"
+423,EST,Tennessee,"Chattanooga, Cleveland, Johnson City, Bristol, Kingsport, Athens, Morristown, Greeneville *(Area Code crosses into CST time zone)"
+424,PST,California,Overlay of 310 Area Code
+425,PST,Washington,"Bothell, Everett, Bellevue, Kirkland, Renton"
+430,CST,Texas,Overlay of 903 Area Code.
+432,CST,Texas,"Midland, Terminal, Odessa, Big Spring, Alpine, Pecos, Fort Stockton"
+434,EST,Virginia,"Lynchburg, Danville, Charlottesville, Madison Heights, South Boston"
+435,MST,Utah,"Logan, St. George, Park City, Tooele, Brigham City, Richfield, Moab, Blanding"
+440,EST,Ohio,"Willoughby, Hillcrest, Trinity, Lorain, Elyria"
+442,PST,California,Overlay of 760 area code.
+443,EST,Maryland,Overlay of 410 Area Code
+456,,,Used for premium-rate calling
+458,PST,Oregon,Overlay of 541 Area Code. *(Area Code crosses into MST time zone)
+469,CST,Texas,"Overlay of 214, 972 Area Codes (Greater Dallas Area)."
+470,EST,Georgia,"Overlay of 404, 678, 770."
+475,EST,Connecticut,Overlay of 203 area code.
+478,EST,Georgia,"Macon, Warner Robbins, Dublin, Milledgeville, Forsyth"
+479,CST,Arkansas,"Fort Smith, Fayetteville, Rogers, Bentonville, Russellville"
+480,MST,Arizona,"Mesa, Scottsdale, Tempe, Chandler, Gilbert"
+484,EST,Pennsylvania,"Overlay of 610 Area Code (Allentown, Reading, Bethlehem Area)"
+500,,,Used for Personal Communications Services
+501,CST,Arkansas,"Little Rock, Hot Springs"
+502,EST,Kentucky,"Louisville, Frankfort, Fort Knox, Pleasure Ridge Park"
+503,PST,Oregon,"Portland, Salem, Beaverton, Gresham, Hillsboro"
+504,CST,Louisiana,"New Orleans, Metairie, Kenner, Chalmette"
+505,MST,New Mexico,"New Mexico: Albuquerque, Bernalillo, Farmington, Gallup, Grants, Las Vegas, Los Alamos, Rio Rancho, Santa Fe"
+507,CST,Minnesota,"Rochester, Mankato, Winona, Faribault, Luverne"
+508,EST,Massachusetts,"Worcester, Framingham, Brockton, Plymouth, New Bedford, Marlboro, Natick, Taunton, Auburn, Westboro, Easton"
+509,PST,Washington,"Spokane, Yakima, Walla Walla, Pullman, Kenwick"
+510,PST,California,"Oakland, Fremont, Newark, Hayward, Richmond"
+512,CST,Texas,"Austin, San Marcos, Round Rock, Dripping Springs"
+513,EST,Ohio,"Cincinnati, Hamilton, Clermont, Middleton, Mason"
+515,CST,Iowa,"Des Moines, Ames, Jefferson"
+516,EST,New York,"Nassau County: Hempstead, Oceanside, Freeport, Long Beach, Garden City, Glen Cove, Mineola"
+517,EST,Michigan,"Lansing, Bay City, Jackson, Howell, Adrian"
+518,EST,New York,"Albany, Schenectady, Troy, Glens Falls, Saratoga Springs, Lake Placid"
+520,MST,Arizona,"Tucson, Sierra Vista, Nogales, Douglass, Bisbee"
+530,PST,California,"Chico, Redding, Marysville, Auburn, Davis, Placerville"
+531,CST,Nebraska,Overlay of 402 Area Code. *(Area Code crosses into MST time zone)
+533,,,Used for Personal Communications Services
+534,CST,Wisconsin,Overlay of 715 area code.
+539,CST,Oklahoma,Overlay of 918 area code.
+540,EST,Virginia,"Roanoke, Harrisonburg, Fredericksburg, Blacksburg, Winchester, Staunton, Culpeper"
+541,PST,Oregon,"Eugene, Medford, Corvallis, Bend, Albany, Roseburg, Klamath Falls *(Area Code crosses into MST time zone)"
+544,,,Used for Personal Communications Services
+551,EST,New Jersey,Overlay of 201 area code.
+559,PST,California,"Fresno, Visalia, Madera, San Joaquin, Porterville, Hanford"
+561,EST,Florida,"Palm Beaches, Boca Raton, Boynton Beach"
+562,PST,California,"Long Beach, Norwalk, Alamitos, Downey, Whittier, Lakewood, La Habra"
+563,CST,Iowa,"Davenport, Dubuque, Clinton, Muscatine, Decorah, Manchester, West Union"
+566,,,Used for Personal Communications Services
+567,EST,Ohio,Overlay of 419 area code.
+570,EST,Pennsylvania,"Wilkes-Barre, Scranton, Stroudsburg, Williamsport, Pittston"
+571,EST,Virginia,Overlay of 703 area code.
+573,CST,Missouri,"Columbia, Cape Girardeau, Jefferson City"
+574,EST,Indiana,"South Bend, Elkhart, Mishawaka, Granger, La Porte *(Area Code crosses into CST time zone)"
+575,MST,New Mexico,"Split of 505 area code. Alamogordo, Carlsbad, Clovis, Deming, El Rito, Galina, Hatch, Hobbs, Las Cruces, Penasco, Raton, Taos"
+580,CST,Oklahoma,"Lawton, Enid, Ponca City, Ardmore, Duncan"
+585,EST,New York,"Rochester, East Rochester, Olean, Batavia, Webster, Fairport, Henrietta"
+586,EST,Michigan,"Warren, Mount Clemens, Roseville, Center Line, Utica, Romeo, Richmond, Washington, New Baltimore"
+588,,,Used for Personal Communications Services
+601,CST,Mississippi,"Southern Mississippi: Jackson, Hattiesburg, Vicksburg, Meridian"
+602,MST,Arizona,Phoenix
+603,EST,New Hampshire,New Hampshire: All regions
+605,CST,South Dakota,South Dakota: All regions *(Area Code crosses into MST time zone)
+606,EST,Kentucky,"Ashland, Winchester, Pikeville, Somerset *(Area Code crosses into CST time zone)"
+607,EST,New York,"Elmira, Ithaca, Stamford, Binghamton, Endicott, Oneonta"
+608,CST,Wisconsin,"Madison, La Crosse, Janesville, Middleton, Monroe, Platteville, Dodgeville"
+609,EST,New Jersey,"Atlantic City, Trenton, Princeton, Pleasantville, Fort Dix, Lawrenceville"
+610,EST,Pennsylvania,"Allentown, Reading, Bethlehem, West Chester, Pottstown"
+611,,,Used for telephone repair service in many Areas
+612,CST,Minnesota,"Minneapolis, Richfield"
+614,EST,Ohio,"Columbus, Worthington, Dublin, Reynoldsburg, Westerville, Gahanna, Hilliard"
+615,CST,Tennessee,"Nashville, Mufreesboro, Hendersonville, Frank"
+616,EST,Michigan,"Grand Rapids, Holland, Grand Haven, Greenville, Zeeland, Ionia"
+617,EST,Massachusetts,"Boston, Cambridge, Quincy, Newton, Brookline, Brighton, Somerville, Dorchester, Hyde Park, Jamaica Plain"
+618,CST,Illinois,"Collinsville, Alton, Carbondale, Belleville, Mount Vernon, Centralia"
+619,PST,California,"San Diego, Chula Vista, El Cajon, La Mesa, National City, Coronado"
+620,CST,Kansas,"Hutchinson, Emporia, Liberal, Pittsburg, Dodge City, Garden City, Coffeyville *(Area Code crosses into MST time zone)"
+623,MST,Arizona,"Glendale, Sun City, Peoria"
+626,PST,California,"Pasadena, Alhambra, Covina, El Monte, La Puenta"
+628,PST,California,Overlay of 415 Area Code
+629,CST,Tennessee,Overlay of 615 Area Code
+630,CST,Illinois,"La Grange, Roselle, Hinsdale, Downers Grove, Naperville, Lombard, Elmhurst, Aurora, Wheaton"
+631,EST,New York,"Suffolk County: Brentwood, Farmingdale, Central Islip, Riverhead, Huntington, Deer Park, Amityville, Lindenhurst"
+636,CST,Missouri,"St. Charles, Fenton, Harvester, Chesterfield, Manchester"
+641,CST,Iowa,"Fairfield, Mason City, Grinnell, Newton, Knoxville"
+646,EST,New York,Overlay of 212 Area Code (New York City).
+650,PST,California,"South San Francisco, Palo Alto, San Mateo, Mountain View, Redwood City"
+651,CST,Minnesota,"St. Paul, Redwing, Farmington, Eagan, Lino Lakes, North Branch, Roseville Valley"
+657,PST,California,Overlay of 714 area code.
+660,CST,Missouri,"Warrensburg, Kirksville, Sedalia, Chillicothe, Moberly, Marshall"
+661,PST,California,"Bakersfield, Santa Clarita, Palmdale, Simi Valley"
+662,CST,Mississippi,"Northern Mississippi: Tupelo, Columbus, Greenwood, Greenville, Oxford"
+667,EST,Maryland,"Overlay of 410, 443 area codes"
+669,PST,California,"Overlay of 408 area code (San Jose, San Jose, Sunnyvale, etc.)"
+678,EST,Georgia,Overlay of 404 & 770 area codes.
+681,EST,West Virginia,Overlay of 304 Area Code.
+682,CST,Texas,Overlay of 817 area code.
+700,,,"Used for Value Added Special Services, per individual Carrier."
+701,CST,North Dakota,North Dakota: All regions *(Area Code crosses into MST time zone)
+702,PST,Nevada,Las Vegas & Surrounding Areas.
+703,EST,Virginia,"Arlington, Alexandria, Fairfax, Falls Church, Quantico, Herndon, Vienna"
+704,EST,North Carolina,"Charlotte, Asheville, Gastonia, Concord, Statesville, Salisbury, Shelby, Monroe"
+706,EST,Georgia,"Augusta, Columbus, Athens, Rome, Dalton"
+707,PST,California,"Eureka, Napa, Santa Rosa, Petaluma, Vallejo"
+708,CST,Illinois,"Oak Brook, Calumet City, Harvey (South suburbs of Chicago)"
+710,,,Federal Government Special Services
+712,CST,Iowa,"Sioux City, Council Bluffs, Spencer, Cherokee, Denison"
+713,CST,Texas,Houston
+714,PST,California,"Anaheim, Santa Anna"
+715,CST,Wisconsin,"Eau Claire, Wausau, Stevens Point, Superior"
+716,EST,New York,"Buffalo, Niagara Falls, Tonawanda, Williamsville, Jamestown, Lancaster"
+717,EST,Pennsylvania,"Harrisburg, York, Lancaster"
+718,EST,New York,"New York City (Bronx, Brooklyn, Queens, Staten Island)"
+719,MST,Colorado,"Colorado Springs, Pueblo, Lamar"
+720,MST,Colorado,Overlay of 303 area code.
+724,EST,Pennsylvania,"Greensburg, Uniontown, Butler, Washington, New Castle, Indiana"
+725,PST,Nevada,Overlay of 702 area code
+727,EST,Florida,"Clearwater, St. Petersburg, New Port Richey, Tarpon Springs"
+731,CST,Tennessee,"Jackson, Dyersburg, Union City, Paris, Brownsville"
+732,EST,New Jersey,"New Brunswick, Metuchen, Rahway, Perth Amboy, Toms River, Bound Brook"
+734,EST,Michigan,"Ann Arbor, Livonia, Wayne, Wyandotte, Ypsilanti, Plymouth, Monroe"
+737,CST,Texas,Overlay of 512 area code
+740,EST,Ohio,"Portsmouth, Newark, Zanesville, Wheeling, Steubenville"
+743,EST,North Carolina,Overlay of 336 area code.
+747,PST,California,Overlay of 818 Area Code.
+754,EST,Florida,Overlay of 954 Area Code (Ft. Lauderdale Area).
+757,EST,Virginia,"Norfolk, Newport News, Williamsburgh"
+760,PST,California,"Oceanside, Palm Springs, Victorville, Escondido, Vista, Palm Desert"
+762,EST,Georgia,Overlay of 706 Area Code.
+763,CST,Minnesota,"Brooklyn Park, Coon Rapids, Maple Grove, Plymouth, Cambridge, Blaine, Anoka"
+765,EST,Indiana,"Lafayette, Muncie, Kokomo, Anderson, Richmond, Marion"
+769,CST,Mississippi,Overlay of 601 area code (Southern Mississippi).
+770,EST,Georgia,"Norcross, Chamblee, Smyrna, Tucker, Marietta, Alpharetta, Gainesville"
+772,EST,Florida,"Vero Beach, Port St. Lucie, Stuart, Fort Pierce, Sebastian, Hobe Sound, Jensen Beach, Indiantown"
+773,CST,Illinois,Chicago (except downtown Area is 312)
+774,EST,Massachusetts,Overlay of 508 area code.
+775,PST,Nevada,"Reno, Carson City *(Area Code crosses into MST time zone)"
+779,CST,Illinois,Overlay of 815 area code.
+781,EST,Massachusetts,"Waltham, Lexington, Burlinton, Dedham, Woburn, Lynn, Malden, Saugus, Reading, Braintree, Wellesley"
+785,CST,Kansas,"Topeka, Lawrence, Manhattan, Salina, Junction *(Area Code crosses into MST time zone)"
+786,EST,Florida,Overlay of 305 area code (Miami).
+800,,,Toll Free
+801,MST,Utah,"Utah: Salt Lake City, Provo, Ogden, Orem, American Fork, Spanish Fork, Bountiful, Kaysville, Morgan"
+802,EST,Vermont,Vermont: All regions
+803,EST,South Carolina,Columbia
+804,EST,Virginia,"Richmond, Lynchburg, Petersburg,"
+805,PST,California,"Santa Barbara, Thousand Oaks, San Luis Obispo, Ventura, Oxnard, Simi Valley"
+806,CST,Texas,"Amarillo, Lubbock"
+808,HAST,Hawaii,Hawaii: All regions
+809,AST,,Dominican Republic
+810,EST,Michigan,"Flint, Port Huron, Lapeer, Brighton, Sandusky"
+812,EST,Indiana,"Evansville, Bloomington, Terre Haute, New Albany *(Area Code crosses into CST time zone)"
+813,EST,Florida,Tampa
+814,EST,Pennsylvania,"Altoona, Johnstown, Erie, Punxsutawney"
+815,CST,Illinois,"La Salle, Joliet, Rockford, DeKalb"
+816,CST,Missouri,"Kansas City, Saint Joseph, Independence, Gladstone"
+817,CST,Texas,"Fort Worth, Arlington, Euless, Grapevine"
+818,PST,California,"Van Nuys, Canoga Park, Burbank, San Fernando, Glendale, N. Hollywood"
+828,EST,North Carolina,"Asheville, Hickory, Morganton, Hendersonville, Lenoir, Boone, Andrews, Murphy, Marble"
+830,CST,Texas,"New Braunfels, Del Rio, Seguin, Kerrville, Eagle Pass, Fredericksburg"
+831,PST,California,"Monterey, Santa Cruz, Salinas, Hollister, Aptos, Carmel"
+832,CST,Texas,"Overlay of 713, 281 and 346 area codes (Houston)."
+843,EST,South Carolina,"Charleston, Florence, Myrtle Beach, Hilton Head"
+844,,,Toll Free
+845,EST,New York,"Poughkeepsie, Spring Valley, Newburgh, Kingston, Nyack, Middletown, Brewster, Pearl River"
+847,CST,Illinois,"Northbrook, Skokie, Evanston, Glenview, Waukegan, Desplaines, Elk Grove (North suburbs of Chicago)"
+848,EST,New Jersey,Overlay of 732 area code.
+850,CST,Florida,"Tallahassee, Pensacola, Fort Walton Beach, Panama City *(Area Code crosses into EST time zone)"
+854,EST,South Carolina,Overlay of the 843 area code.
+855,,,Toll Free
+856,EST,New Jersey,"Camden, Haddonfield, Moorestown, Merchantville, Vineland, Laurel Springs"
+857,EST,Massachusetts,Overlay of 617 area code.
+858,PST,California,"La Jolla, Rancho Bernardo, del Mar, Poway, Rancho Penasquitos, Rancho Santa Fe"
+859,EST,Kentucky,"Lexington, Covington, Boone, Winchester, Richmond, Danville, Mount Sterling"
+860,EST,Connecticut,"Hartford, New London, Norwich, Middletown, Bristol"
+862,EST,New Jersey,Overlay of 973 area code.
+863,EST,Florida,"Lakeland, Winter Haven, Lake Wales, Sebring, Haines City, Bartow, Avon Park, Okeechobee, Wachula"
+864,EST,South Carolina,"Greenville, Spartanburg, Anderson"
+865,EST,Tennessee,"Knoxville, Maryville, Oak Ridge, Sevierville, Gatlinburg, Concord, Powell"
+866,,,Toll Free
+870,CST,Arkansas,"Texarkana, Jonesboro, Pine Bluff, El Dorado"
+872,CST,Illinois,Overlay of 312 and 773 area codes.
+877,,,Toll Free
+878,EST,Pennsylvania,"Overlay of 412, 724 area codes."
+880,,,Carribean to U.S. or Canada OR Canada to U.S. Toll Free
+881,,,Carribean to U.S. or Canada OR Canada to U.S. Toll Free
+888,,,Toll Free
+900,,,Used for Mass Calling Value Added Information
+901,CST,Tennessee,"Memphis, Collierville"
+903,CST,Texas,"Longview, Tyler, Texarkana, Paris, Kilgore, Sherman, Denison"
+904,EST,Florida,"Jacksonville, Saint Augustine, Orange Park, Fernandina Beach"
+906,EST,Michigan,"Marquette, Iron Mountain, Houghton, Sault Ste Marie *(Area Code crosses into CST time zone)"
+907,AKST,Alaska,Alaska: All regions *(Area Code crosses into HAST time zone)
+908,EST,New Jersey,"Elizabeth, New Brunswick, Somerville, Freehold, Unionville, Plainfield"
+909,PST,California,"San Bernardino, Ontario, Upland, Pomona, Riverside, Colton, Chino"
+910,EST,North Carolina,"Fayetteville, Wilmington, Jacksonville, Lumberton, Laurinburg, Southern Pines"
+912,EST,Georgia,"Savannah, Macon, Waycross, Brunswick, Statesboro, Vidalia"
+913,CST,Kansas,"Melrose, Kansas City"
+914,EST,New York,"Westchester, Monroe, Mount Vernon, Mount Kisco, Pleasantville"
+915,MST,Texas,"El Paso, Socorro, Fabens, Dell City, Van Horn, Fort Bliss *(Area Code crosses into CST time zone)"
+916,PST,California,"Sacramento, Roseville, Fair Oaks, Folsom, Elk Grove, South Placer"
+917,EST,New York,Overlay of 212/718 (New York City - cellular/pager only)
+918,CST,Oklahoma,"Tulsa, Broken Arrow, Muskogee, Bartlesville, McAlester"
+919,EST,North Carolina,"Raleigh, Durham, Cary, Chapel Hill, Goldsboro, Apex, Sanford, Wake Forest"
+920,CST,Wisconsin,"Green Bay, Appleton, Racine, Fond du Lac, Oshkosh, Sheboygan"
+925,PST,California,"Walnut Creek, Pleasanton, Concord, Livermore, Bishop Ranch, Danville, Antioch"
+928,MST,Arizona,"Yuma, Flagstaff, Prescott, Sedona, Bullhead City, Kingman, Lake Havasu City *(Area Code crosses into MST time zone)"
+929,EST,New York,"Overlay of 718 Area Code (Bronx, Brooklyn, Queens, Staten Island)."
+930,EST,Indiana,Overlay of 812 Area Code *(Area Code crosses into CST time zone)
+931,CST,Tennessee,"Clarksville, Shelbyville, Cookeville, Columbia"
+934,EST,New York,Overlay of 631 Area Code.
+936,CST,Texas,"Conroe, Nacogdoches, Huntsville, Lufkin, Madisonville"
+937,EST,Ohio,"Dayton, Springfield, Bellefontaine, Beavercreek, Franklin"
+938,CST,Alabama,Overlay of 256 area code.
+940,CST,Texas,"Wichita Falls, Denton, Gainesville"
+941,EST,Florida,"Sarasota, Bradenton, Venice, Port Charlotte, Punta Gorda"
+947,EST,Michigan,Overlay of 248 Area Code.
+949,PST,California,"Irvine, Saddleback Valley, Newport Beach, Capistrano Valley, Laguna Beach"
+951,PST,California,"Riverside, Corona, Temecula, Arlington, Hemet, Moreno Valley, Murietta, Sun City, Elsinore"
+952,CST,Minnesota,"Bloomington, Burnsville, Eden Prairie, Minnetonka, Edina, St. Louis Park, Apple Valley"
+954,EST,Florida,"Fort Lauderdale, Hollywood, Pompano Beach, Deerfield Beach, Coral Springs"
+956,CST,Texas,"Brownsville, Laredo, McAllen, Harlingen, Edinburg"
+959,EST,Connecticut,Overlay of 860 Area Code
+970,MST,Colorado,"Fort Collins, Greeley, Grand Junction, Loveland, Durango, Vail"
+971,PST,Oregon,Overlay of 503 area code.
+972,CST,Texas,"Grand Prairie, Addison, Irving, Richardson, Plano, Carrollton"
+973,EST,New Jersey,"Newark, Morristown, Paterson, Passaic, Orange, Bloomfield, Caldwell, Whippany"
+978,EST,Massachusetts,"Lowell, Lawrence, Billerica, Concord, Wilmington, Sudbury, Fitchburg, Peabody, Andover, Beverly, Danvers"
+979,CST,Texas,"Bryan, Lake Jackson, Freeport, Brenham, Bay City, El Campo"
+980,EST,North Carolina,Overlay of 704 Area Code.
+984,EST,North Carolina,Overlay of 919 area code.
+985,CST,Louisiana,"Houma, Slidell, Hammond, Morgan City, Mandeville, Covington, Thibodaux, Bogalusa, St. Charles"
+989,EST,Michigan,"Saginaw, Bay City, Midland, Mount Pleasant"
